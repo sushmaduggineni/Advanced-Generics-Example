@@ -1,0 +1,7 @@
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.exe.config
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.exe
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.pdb
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.csprojAssemblyReference.cache
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.exe
+C:\Users\Palmeto\source\repos\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.pdb
